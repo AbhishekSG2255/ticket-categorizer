@@ -1,0 +1,71 @@
+subject,body,category
+"Invoice not received","I placed an order last week but I still haven't received my invoice via email. Can you resend it?",Billing
+"Refund delayed","I requested a refund 10 days ago and the amount has still not been credited to my account.",Billing
+"Duplicate charge on my card","I was charged twice for the same order this month. Please refund the extra charge.",Billing
+"Wrong amount deducted","The amount deducted from my card does not match the price shown at checkout.",Billing
+"Subscription renewal issue","My subscription was auto renewed but I wanted to cancel it before the renewal date.",Billing
+"Payment failed but money deducted","My payment failed on the website but the money was deducted from my bank account.",Billing
+"Need GST invoice","Could you please share the GST invoice for my last purchase for accounting purposes?",Billing
+"Overcharged for annual plan","I was charged the monthly price even though I selected the annual plan.",Billing
+"Billing address update","I want to update my billing address before the next invoice is generated.",Billing
+"Late payment penalty query","I was charged a late fee even though I paid before the due date, please check.",Billing
+"Credit note not applied","I received a credit note last month but it has not been applied to my current invoice.",Billing
+"Card declined during checkout","My card keeps getting declined at checkout even though it has sufficient balance.",Billing
+"App crashes on login","The mobile app crashes immediately every time I try to log in after the latest update.",Technical
+"API returns 500 error","Our integration is failing because the API is returning a 500 internal server error.",Technical
+"Website not loading","The website has been down for the last hour and shows a blank page.",Technical
+"Unable to reset password","I clicked forgot password but the reset link in the email is not working.",Technical
+"Dashboard shows wrong data","The analytics dashboard is showing outdated numbers that don't match the actual data.",Technical
+"Upload feature broken","I can't upload files anymore, it just shows a spinning loader forever.",Technical
+"App not working on iOS 18","After updating to iOS 18 the app force closes on launch.",Technical
+"Sync issue between devices","Data is not syncing between my laptop and mobile app, changes on one don't show on the other.",Technical
+"Two factor authentication not sending code","I'm not receiving the OTP code for two factor authentication during login.",Technical
+"Export to CSV fails","Every time I try to export my report to CSV the download fails with an error.",Technical
+"Slow performance after update","The app has become extremely slow and laggy since the last update.",Technical
+"Bug in search functionality","The search bar returns no results even for items that clearly exist.",Technical
+"Leave balance query","Can you tell me how many leave days I have remaining for this year?",HR
+"Payslip not generated","My payslip for last month has not been generated yet, please check.",HR
+"Maternity leave policy question","I wanted to understand the company's maternity leave policy and duration.",HR
+"Offer letter request","Could you please share a copy of my offer letter for a visa application?",HR
+"Reimbursement not processed","I submitted my travel reimbursement claim two weeks ago but haven't received it yet.",HR
+"Onboarding documents pending","I haven't received the onboarding documents I need to submit before my joining date.",HR
+"Work from home request","I would like to request work from home for the next two weeks due to personal reasons.",HR
+"PF withdrawal query","I want to know the process and timeline for withdrawing my PF amount.",HR
+"Employee ID card not issued","It's been a month since I joined and I still haven't received my employee ID card.",HR
+"Appraisal cycle timeline","When does the next performance appraisal cycle start this year?",HR
+"Resignation acceptance confirmation","I submitted my resignation letter last week but haven't received a confirmation yet.",HR
+"Health insurance enrollment","How do I enroll my spouse under the company health insurance plan?",HR
+"General product question","Can you tell me more about the features included in the premium plan?",General
+"How to contact support","What is the best way to reach your support team for urgent issues?",General
+"Feedback about your service","I just wanted to share some feedback about my overall experience with your product.",General
+"Partnership inquiry","We are interested in exploring a partnership opportunity with your company.",General
+"Request for product demo","Could someone schedule a demo call to show us how the platform works?",General
+"Availability in my country","Is your service currently available for customers in my country?",General
+"Career opportunities","I'm interested in career opportunities at your company, where can I apply?",General
+"Press and media inquiry","I'm a journalist and would like to ask a few questions about your company for an article.",General
+"Suggestion for new feature","I have a suggestion for a new feature that I think would really help users.",General
+"Company office location","Could you share the address of your nearest office location?",General
+"Newsletter subscription query","How do I subscribe to your company newsletter for product updates?",General
+"General question about pricing tiers","What is the difference between your basic and pro pricing tiers?",General
+"Invoice mismatch with quote","The invoice total does not match the quote I was originally given.",Billing
+"Cancel subscription request","Please cancel my subscription and confirm no further charges will be made.",Billing
+"Currency conversion charge","I was charged an extra currency conversion fee I wasn't told about.",Billing
+"Coupon code not applied","My discount coupon code was not applied at checkout, please refund the difference.",Billing
+"Downgrade plan billing question","If I downgrade my plan mid cycle, will I get a prorated refund on the invoice?",Billing
+"Payment gateway error","The payment gateway shows an error every time I try to pay my invoice online.",Technical
+"Notifications not working","I stopped receiving push notifications after updating the app last week.",Technical
+"Login page stuck loading","The login page just keeps loading and never lets me sign in.",Technical
+"Integration webhook failing","Our webhook integration keeps timing out and failing silently.",Technical
+"Server downtime today","Your servers appear to be down, none of our automated jobs are running.",Technical
+"Broken link in email","The verification link in your email leads to a broken page.",Technical
+"Annual leave carry forward","Can unused annual leave be carried forward to next year according to policy?",HR
+"Background verification pending","My background verification is still pending, is there anything I need to submit?",HR
+"Shift timing change request","I would like to request a change in my shift timings for personal reasons.",HR
+"Exit interview scheduling","Could someone schedule my exit interview before my last working day?",HR
+"Team transfer request","I want to request a transfer to a different team, who should I talk to about this?",HR
+"Bonus payout query","When will this year's performance bonus be credited to employees?",HR
+"Custom enterprise plan inquiry","We're a large company interested in a custom enterprise plan, who can we talk to?",General
+"Language support question","Does your platform support languages other than English?",General
+"Referral program details","How does your referral program work and what are the rewards?",General
+"Data privacy question","Can you explain how you handle and store customer data for privacy purposes?",General
+"Event sponsorship inquiry","We'd like to explore sponsorship opportunities for our upcoming tech event.",General
