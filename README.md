@@ -11,13 +11,6 @@ department: **Billing, Technical, HR, or General**.
 4. **Evaluation** — accuracy, precision/recall/F1 per class, confusion matrix.
 5. **Live classification** — `classify_ticket()` scores any new ticket on demand.
 
-## Bonus objectives included
-- ✅ Confidence score returned with every prediction
-- ✅ Tickets below 60% confidence are routed to "Needs Human Review" instead of auto-assigned
-- ✅ Keyword-based URGENT / Normal priority tagging
-- ✅ Mini live demo — Streamlit app where you type a ticket and get an instant result
-- ✅ Reflection note (printed at the end of `ticket_classifier.py`)
-
 ## Run it
 
 ```bash
